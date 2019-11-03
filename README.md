@@ -1,3 +1,7 @@
-Disclaimer: This script is for educational purposes only
-Simple webscraper on modelpress website
-Only works when the images are stored in square component
+# Disclaimer
+
+This script is for educational purposes only
+
+## About the script
+
+Simple webscraper on modelpress website, only works when the images are stored in square components.
